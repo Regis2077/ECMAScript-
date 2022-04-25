@@ -1,4 +1,4 @@
-// não aceita repetição não indexidas
+// não aceita repetição não indexadas
 
 const times = new Set()
 times.add('Vasco')
